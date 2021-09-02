@@ -1,0 +1,185 @@
+.active{
+ font-weight: 500;
+}
+
+.sym{
+	margin-left:170px;
+}
+
+.navbar{
+	position: fixed;
+	overflow: hidden;
+  	color: black;
+  	position: fixed;
+  	top: 0;
+  	width: 100%;
+}
+
+li {
+    display: inline;
+    margin-left:5px;
+  	margin-right:5px;
+}
+
+.last{
+	margin-right:70px;
+}
+
+.sec{
+	color: grey;
+	padding: 15px;
+	text-decoration: none;
+	padding-right: 20px;
+}
+
+.search-container button {
+  	background:  white;
+  	border: none;
+}
+
+.unique{
+	background:  white;
+  	border: none;
+}
+
+.fa-user{
+	cursor: default;
+	margin-left: 17px;
+
+}
+
+hr.divider { 
+  margin: 0.5em;
+  border-width: 1px;
+} 
+
+.card{
+	cursor: pointer;
+}
+
+.nav-link{
+	color: black;
+}
+.card-text{
+	text-align: center;
+	color: #ff0066;
+}
+
+.card-bottom{
+	text-align: center;
+}
+
+.write{
+	text-align: center;
+	font-size: 25px;
+}
+footer {
+	text-align: center;
+	padding-top: 10px;
+	background-color: #ff0066;
+	color: white;
+}
+
+.last{
+	text-decoration: none;
+	color: white;
+	font-size: 15px;
+}
+
+footer p{
+	padding-top: 14px;
+	padding-bottom: 10px;
+	font-size: 12px;
+}
+
+.footer-section {
+    display: flex;
+    background-color: rgb(63, 65, 77);
+    color: white;
+    padding-bottom: 50px;
+}
+    
+.footer-section div {
+    padding-top: 40px;
+}
+    
+.footer-div1 {
+    padding-left: 150px;
+    padding-right: 50px;
+}
+
+.footer-div1 button {
+    background-color: rgb(63, 65, 77);
+    color: white;
+    border: 1px solid white;
+    border-radius: 3px;
+    height: 35px;
+    width: 55px;
+}
+
+.footer-div1 input {
+    border: none;
+    background-color: rgb(63, 65, 77);
+    border-bottom: 2px solid white;
+}
+
+.footer-div3 {
+    padding-right: 150px;
+    padding-left: 90px;
+}
+
+
+.info {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 60px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 60px;
+}
+
+.end p{
+	font-size: 12px;
+}
+
+.info-div {
+    display: flex;
+}
+
+.info-div div i {
+    position: absolute;
+    margin-top: -36px;
+    margin-left: 5px;
+}
+
+.info-circle {
+    border-radius: 50%;
+    background-color: rgb(233, 57, 124);
+    width: 45px;
+    height: 45px;
+    margin-right: 8px;
+    position: relative;
+}
+
+.fa-tag:before {
+    content: "\f02b";
+    color: white;
+}
+
+.fa-shipping-fast:before {
+    content: "\f48b";
+    color: white;
+}
+
+.fa-store:before {
+    content: "\f54e";
+    color: white;
+}
+
+.social-icon {
+    padding-right: 15px;
+}
+
+.social-icon1 {
+    padding-left: 45px;
+}
